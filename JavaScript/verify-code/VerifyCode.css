@@ -1,0 +1,78 @@
+.verify-code-inputs {
+  display: flex;
+  justify-content: center; 
+  margin-bottom: 20px; 
+}
+
+.verify-code-input {
+  width: 40px;
+  height: 40px; 
+  margin: 0 5px; 
+  border: 1px solid #ccc; 
+  font-size: 16px; 
+  text-align: center; 
+  border-radius: 50%; 
+}
+
+.verify-code-input:first-child {
+  margin-left: 0;
+}
+
+.verify-code-input:last-child {
+  margin-right: 0; 
+}
+
+.form-button {
+  height: 50px;
+  background-color: grey; 
+  color: white; 
+  padding: 12px 20px; 
+  border: none; 
+  border-radius: 20px; 
+  cursor: pointer; 
+  transition: background-color 0.3s; 
+  font-size: 1em; 
+}
+
+.form-button:hover {
+  background-color: orange; 
+}
+
+.password-heading {
+  text-align: center;
+  color: gray;
+  font-style: italic;
+  padding: 5px; 
+  background-color: rgba(255, 255, 255, 0.7);
+}
+
+.password-heading2 {
+  text-align: center;
+  color: black;
+  padding: 5px; 
+  background-color: rgba(255, 255, 255, 0.7);
+  text-decoration: underline;
+}
+
+
+.form-button[disabled] {
+  opacity: 0.5; 
+  pointer-events: none; 
+}
+
+.form-button[disabled]:hover {
+  background-color: none;
+  color: none; 
+}
+
+.form-button-transparent {
+  height: 50px;
+  background-color: transparent; 
+  color: inherit; 
+  padding: 12px 20px; 
+  border: none; 
+  cursor: pointer; 
+  transition: background-color 0.3s; 
+  margin: 10px 0px 0px 0px;
+  font-size: 1em; 
+}

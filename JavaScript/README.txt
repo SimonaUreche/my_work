@@ -1,0 +1,3 @@
+-> Cateva pagini facute de mine in cadrul perioadei de proiect dupa terminarea unui curs de baza: HTML, CSS, JavaScript, React, Node.js.
+-> Mentionez ca la proiect s-a lucrat in mai multe persoane, iar aici sunt cateva pagini facute de mine.
+-> Tot in cadrul acestei perioade m-am familiarizat cu GitHub si Jira.
