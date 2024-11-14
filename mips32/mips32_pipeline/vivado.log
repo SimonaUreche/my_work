@@ -1,0 +1,20 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Wed May 15 22:34:35 2024
+# Process ID: 16864
+# Current directory: C:/Users/Simona/OneDrive/Desktop/AC/mips32_pipeline
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent25648 C:\Users\Simona\OneDrive\Desktop\AC\mips32_pipeline\mips32_pipeline.xpr
+# Log file: C:/Users/Simona/OneDrive/Desktop/AC/mips32_pipeline/vivado.log
+# Journal file: C:/Users/Simona/OneDrive/Desktop/AC/mips32_pipeline\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Simona/OneDrive/Desktop/AC/mips32_pipeline/mips32_pipeline.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2016.4/data/ip'.
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed May 15 23:40:08 2024...
